@@ -8,13 +8,27 @@
 - 🌱 I’m currently learning **Django framework**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="left">Connect with me:</h3>
+
 <ul>
-  <li><a href="https://www.instagram.com/luchezar.y/" target="_blank">Instagram</a></li>
-  <li><a href="https://www.facebook.com/lachko.yordanov/" target="_blank">Facebook</a></li>
-  <li><a href="mailto:luchezar31@abv.bg">ABV Email</a></li>
+  <li>
+    <a href="https://www.instagram.com/luchezar.y/" target="_blank">
+      <img src="![image](https://github.com/user-attachments/assets/026e60ef-4f87-4381-8295-c82b20508676)
+" alt="Instagram" width="40" height="40">
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/yourusername" target="_blank">
+      <img src="path_to_facebook_image.png" alt="Facebook" width="40" height="40">
+    </a>
+  </li>
+  <li>
+    <a href="mailto:luchezar31@abv.bg">
+      <img src="path_to_abv_image.png" alt="ABV Email" width="40" height="40">
+    </a>
+  </li>
 </ul>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
