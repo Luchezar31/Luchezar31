@@ -8,17 +8,17 @@
 - 🌱 I’m currently learning **Django framework**
 
 <h3 align="left">Connect with me:
-<a href="mailto:luchezar31@abv.bg">luchezar31@abv.bg</a></h3>
+<a>luchezar31@abv.bg</a></h3>
 
 <ul>
   <li>
     <a href="https://www.instagram.com/luchezar.y/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  width="20" height="20">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  width="30" height="30">
     </a>
   </li>
   <li>
     <a href="https://www.facebook.com/lachko.yordanov/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="20" height="20">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="30" height="30">
     </a>
 </ul>
 
