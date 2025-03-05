@@ -1,4 +1,4 @@
-![5296765_camera_instagram_instagram logo_icon](https://github.com/user-attachments/assets/a7761a00-e397-438d-8ebb-682b888fa09d)<h1 align="center">Hi 👋, I'm Lachezar Yordanov</h1>
+<h1 align="center">Hi 👋, I'm Lachezar Yordanov</h1>
 <h3 align="center">Currently a student at SoftUni, with a main focus on backend development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luchezar31&label=Profile%20views&color=0e75b6&style=flat" alt="luchezar31" /> </p>
@@ -18,7 +18,7 @@
   </li>
   <li>
     <a href="https://www.facebook.com/lachko.yordanov/" target="_blank">
-      <img src=https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40">
     </a>
   </li>
   <li>
