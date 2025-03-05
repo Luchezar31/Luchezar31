@@ -7,24 +7,19 @@
 
 - 🌱 I’m currently learning **Django framework**
 
-<h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+<a href="mailto:luchezar31@abv.bg">luchezar31@abv.bg</a></h3>
 
 <ul>
   <li>
     <a href="https://www.instagram.com/luchezar.y/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  width="40" height="40">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  width="20" height="20">
     </a>
   </li>
   <li>
     <a href="https://www.facebook.com/lachko.yordanov/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="20" height="20">
     </a>
-  </li>
-  <li>
-    <a href="mailto:luchezar31@abv.bg">
-    </a>
-  </li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
