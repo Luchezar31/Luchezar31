@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lachezar Yordanov</h1>
+![5296765_camera_instagram_instagram logo_icon](https://github.com/user-attachments/assets/a7761a00-e397-438d-8ebb-682b888fa09d)<h1 align="center">Hi 👋, I'm Lachezar Yordanov</h1>
 <h3 align="center">Currently a student at SoftUni, with a main focus on backend development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luchezar31&label=Profile%20views&color=0e75b6&style=flat" alt="luchezar31" /> </p>
@@ -13,18 +13,16 @@
 <ul>
   <li>
     <a href="https://www.instagram.com/luchezar.y/" target="_blank">
-      <img src="![image](https://github.com/user-attachments/assets/026e60ef-4f87-4381-8295-c82b20508676)
-" alt="Instagram" width="40" height="40">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  width="40" height="40">
     </a>
   </li>
   <li>
-    <a href="https://www.facebook.com/yourusername" target="_blank">
-      <img src="path_to_facebook_image.png" alt="Facebook" width="40" height="40">
+    <a href="https://www.facebook.com/lachko.yordanov/" target="_blank">
+      <img src=https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40">
     </a>
   </li>
   <li>
     <a href="mailto:luchezar31@abv.bg">
-      <img src="path_to_abv_image.png" alt="ABV Email" width="40" height="40">
     </a>
   </li>
 </ul>
